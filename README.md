@@ -1,5 +1,4 @@
-# Web application that I developed alone during Hackathon Wawcode 2018 - It got 1st place 
-
+# Web application that won Wawcode Hackathon 2018
 
 ## Deployed application:
 <b>!Works only for Warsaw!</b> : http://wawcode-742bf.firebaseapp.com
