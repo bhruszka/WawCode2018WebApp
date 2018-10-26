@@ -1,26 +1,16 @@
-# webapp
+# Web application that I developed alone during Hackathon Wawcode 2018 - It got 1st place 
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## Deployed application:
+<b>!Works only for Warsaw!</b> : http://wawcode-742bf.firebaseapp.com
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+## Scraper:
+https://github.com/bhruszka/WawCode2018Scraper
 
-### Run your tests
-```
-yarn run test
-```
+## Functionalities
+- Browsing restaurants on a map
+- Presenting aggregated blog post for each restaurant
 
-### Lints and fixes files
-```
-yarn run lint
-```
+## Technologies:
+- Vuejs + Vuetify
+- Map: Leaflet + Mapbox
