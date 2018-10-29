@@ -3,7 +3,7 @@
 ## Deployed application:
 <b>!Works only for Warsaw!</b> : http://wawcode-742bf.firebaseapp.com
 
-## Scraper:
+## Scrapper:
 https://github.com/bhruszka/WawCode2018Scraper
 
 ## Functionalities
