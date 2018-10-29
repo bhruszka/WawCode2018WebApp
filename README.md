@@ -4,7 +4,7 @@
 <b>!Works only for Warsaw!</b> : http://wawcode-742bf.firebaseapp.com
 
 ## Scrapper:
-https://github.com/bhruszka/WawCode2018Scraper
+https://github.com/bhruszka/WawCode2018Scrapper
 
 ## Functionalities
 - Browsing restaurants on a map
